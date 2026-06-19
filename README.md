@@ -16,17 +16,15 @@ AI 辅助部署《幻想神域》局域网或互联网服务器的开源整理�
 
 完整包较大，不直接放在 GitHub 仓库内。下载后建议校验 SHA256。
 
-| 类型                | 链接                                                                                                                   |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| AWS 直链            | [hxsy-lan-open-20260608.tar.7z](https://h.shorin.xyz/downloads/hxsy-lan-open-20260608.tar.7z)                          |
-| AWS SHA256          | [hxsy-lan-open-20260608.tar.7z.sha256](https://h.shorin.xyz/downloads/hxsy-lan-open-20260608.tar.7z.sha256)            |
-| Google Drive        | [hxsy-lan-open-20260608.tar.7z](https://drive.google.com/file/d/1yPlvboJq0_-pQWJzGwZzBhdzen9g1026/view?usp=drive_link) |
-| Google Drive SHA256 | [sha256 文件](https://drive.google.com/file/d/1mQJotVsSS_EUhkYxHs-3lxWnmktg606b/view?usp=drive_link)                   |
+| 类型       | 链接                                                                                                  |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| AWS 直链   | [hxsy-open-20260619.tar.7z](https://h.shorin.xyz/downloads/hxsy-open-20260619.tar.7z)                 |
+| AWS SHA256 | [hxsy-open-20260619.tar.7z.sha256](https://h.shorin.xyz/downloads/hxsy-open-20260619.tar.7z.sha256)   |
 
 校验示例：
 
 ```bash
-sha256sum -c hxsy-lan-open-20260608.tar.7z.sha256
+sha256sum -c hxsy-open-20260619.tar.7z.sha256
 ```
 
 ## 文件介绍
